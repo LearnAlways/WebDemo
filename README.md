@@ -1,2 +1,2 @@
-# WebDemo
-Some demo for web ui
+# demo
+Some demo for learn
